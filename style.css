@@ -1,3 +1,8 @@
+
+.fonts{
+    font-family: 'Merriweather', serif
+}
+
 @media screen and (max-width: 480px;){
     .col-md-3 img{
         max-width: 100%;
