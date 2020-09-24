@@ -1,13 +1,17 @@
 
+
+/* Index.html styles */
 .fonts{
     font-family: 'Merriweather', serif;
 }
+ 
+.container{
+    margin-top: 40px;
+}
 
-/* @media screen and (max-width: 480px){
-    .col-md-3 img{
-        max-width: 100%;
-    }
-} */
+
+
+
 
 /* // Extra small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap */
