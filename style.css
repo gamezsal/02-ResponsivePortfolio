@@ -9,7 +9,9 @@
     margin-top: 40px;
 }
 
-
+.row{
+    margin-top: 40px;
+}
 
 
 
@@ -21,11 +23,23 @@
     .col-md-3 img{
         max-width: 100%;
     }
+    .col-md-12{
+        max-width: 100%;
+    }
+    .col-md-4{
+        max-width: 100%;
+    }
 }
 
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
-        .col-md-3 img{
+    .col-md-4 img{
+        max-width: 100%;
+    }
+    .col-md-12{
+        max-width: 100%;
+    }
+    .col-md-4{
         max-width: 100%;
     }
 }
@@ -35,11 +49,23 @@
     .col-md-3 img{
         max-width: 100%;
     }
+    .col-md-12{
+        max-width: 100%;
+    }
+    .col-md-4{
+        max-width: 100%;
+    }
 }
 
 /* // Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
     .col-md-3 img{
+        max-width: 100%;
+    }
+    .col-md-12{
+        max-width: 100%;
+    }
+    .col-md-4{
         max-width: 100%;
     }
 } 
