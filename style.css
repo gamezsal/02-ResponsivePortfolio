@@ -5,14 +5,23 @@
     font-family: 'Merriweather', serif;
 }
  
-.container{
+/* .container{
     margin-top: 40px;
-}
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+} */
 
 .row{
     margin-top: 40px;
 }
 
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
 
 
 /* // Extra small devices (portrait phones, less than 576px)
@@ -20,52 +29,36 @@
 
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
-    .col-md-3 img{
+    .col-sm-12{
+        display: block;
         max-width: 100%;
-    }
-    .col-md-12{
-        max-width: 100%;
-    }
-    .col-md-4{
-        max-width: 100%;
+        height: auto;
     }
 }
 
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
-    .col-md-4 img{
+    .col-md-3{
+        display: block;
         max-width: 100%;
-    }
-    .col-md-12{
-        max-width: 100%;
-    }
-    .col-md-4{
-        max-width: 100%;
+        height: auto;
     }
 }
 
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
-    .col-md-3 img{
+    .col-lg-4{
+        display: block;
         max-width: 100%;
-    }
-    .col-md-12{
-        max-width: 100%;
-    }
-    .col-md-4{
-        max-width: 100%;
+        height: auto;
     }
 }
 
 /* // Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-    .col-md-3 img{
+    .col-xl-3{
+        display: block;
         max-width: 100%;
+        height: auto;
     }
-    .col-md-12{
-        max-width: 100%;
-    }
-    .col-md-4{
-        max-width: 100%;
-    }
-} 
+}
