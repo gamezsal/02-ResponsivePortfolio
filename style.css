@@ -5,22 +5,23 @@
     font-family: 'Merriweather', serif;
 }
  
-/* .container{
-    margin-top: 40px;
+.container{
+    margin-top: 10px;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
-} */
+}
 
 .row{
     margin-top: 40px;
+    margin-bottom: 30%;
 }
 
 img{
     display: block;
-    max-width: 100%;
-    height: auto;
+    max-width: 80%;
+    height: 350px;
   }
 
 
