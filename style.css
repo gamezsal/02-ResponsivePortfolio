@@ -24,6 +24,20 @@ img{
     max-height: 350px;
   }
 
+/* Footer styling */
+.footer {
+	height: 50px;
+	clear:both;
+}
+
+.footer a {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+
+
+
 
 /* // Extra small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap */
