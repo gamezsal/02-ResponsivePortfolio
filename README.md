@@ -81,6 +81,7 @@ We would like you to have well over 200 commits by graduation, so commit early a
 You are required to submit the following:
 
 * The URLs of the deployed applications
+https://gamezsal.github.io/02-ResponsivePortfolio/
 
 * The URLs of the GitHub repositories
 
