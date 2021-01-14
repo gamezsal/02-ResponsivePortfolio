@@ -83,7 +83,7 @@ You are required to submit the following:
 * The URLs of the deployed applications
 https://gamezsal.github.io/02-ResponsivePortfolio/
 
-* The URLs of the GitHub repositories
+* The URLs of the GitHub repositories https://github.com/gamezsal/02-ResponsivePortfolio
 
 - - -
 
